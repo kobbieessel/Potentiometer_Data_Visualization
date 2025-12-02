@@ -97,5 +97,5 @@ This workflow is widely used in:
  - python visualize.py
 
 ## Result Video
-<video src="https://github.com/kobbieessel/repo/images/graphing_demo.mp4" width="500" controls></video>
+<video src="https://github.com/kobbieessel/Potentiometer_Data_Visualization/blob/main/images/graphing_demo.mp4" width="500" controls></video>
 
