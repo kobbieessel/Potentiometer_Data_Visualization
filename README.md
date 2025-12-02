@@ -24,6 +24,7 @@ This setup provides a clear visual understanding of sensor behavior and system r
 ---
 
 ## Project Structure
+
 📁 Led_control & pot_data_visualization/
 │
 ├── led_contol/
