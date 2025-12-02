@@ -42,6 +42,22 @@ This setup provides a clear visual understanding of sensor behavior and system r
 │
 └── README.md
 
+
+📁 Potentiometer-Visualization/
+│
+├── arduino/
+│   └── pot_to_led.ino
+│
+├── python/
+│   └── visualize.py
+│
+├── assets/
+│   ├── hardware_setup.jpg
+│   ├── live_plot.gif
+│   └── readme_banner.png
+│
+└── README.md
+
 ---
 ## Photos
 ### Brightness Vs. Potentiometer reading
