@@ -49,7 +49,7 @@ try:
     while True:
         if arduino_serial_data.in_waiting >= 0:
             arduino_data = float(arduino_serial_data.readline().decode("utf-8").strip())
-            print(f"Data recieved: {arduino_data}")
+            print(f"Data received: {arduino_data}")
             pot_values.append(arduino_data)
             led_intensity = (MAX_PWM/MAX_ADC) * arduino_data
             brightness.append(led_intensity)

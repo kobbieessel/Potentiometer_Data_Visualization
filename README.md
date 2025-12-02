@@ -23,6 +23,35 @@ This setup provides a clear visual understanding of sensor behavior and system r
 
 ---
 
+## Project Structure
+📁 Led_control & pot_data_visualization/
+│
+├── led_contol/
+│   └── led_contol.ino
+│
+├── python/
+│   └── led_contol.py
+│
+├── images/
+│   ├── graph_2.png
+│   ├── graph_3.png
+│   ├── graph.png
+│   ├── graphing_demo.mp4
+│   └── graphing_demo.gif
+│
+└── README.md
+
+---
+## Photos
+### Brightness Vs. Potentiometer reading
+![Real-time Plot](images/graph.png)
+
+### Real-time Plot
+![Real-time Plot](images/graphing_demo.gif)
+
+
+---
+
 ## 🔧 Hardware Requirements
 - Arduino Uno or compatible board  
 - Potentiometer  
@@ -67,4 +96,6 @@ This workflow is widely used in:
 3. Run the Visualization Script
  - python visualize.py
 
-## Result
+## Result Video
+<video src="https://github.com/kobbieessel/repo/images/graphing_demo.mp4" width="500" controls></video>
+
