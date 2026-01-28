@@ -97,3 +97,9 @@ This workflow is widely used in:
  - python visualize.py
 
 
+## Author 
+**Kwabena Amoako**
+Embedded Systems | Hardware & Firmware | Robotics
+
+Social:
+[LinkedIn](https://www.linkedin.com/in/kwabena-e-amoako/)
