@@ -57,7 +57,7 @@ try:
             plt.pause(0.0001)
             counter += 1
 
-        # pops the first value added to the list if current items in list exceeds 50
+        # pops the first value added to the list if current items in list exceeds 50 data samples
         if counter > 50:
             pot_values.pop(0)
             brightness.pop(0)
