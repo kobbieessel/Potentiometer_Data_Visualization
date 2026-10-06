@@ -24,7 +24,7 @@ This setup provides a clear visual understanding of sensor behavior and system r
 ---
 
 ## Project Structure
-
+```text
  📁 Led_control & pot_data_visualization/
  │
  ├── led_contol/
@@ -41,7 +41,7 @@ This setup provides a clear visual understanding of sensor behavior and system r
  │   └── graphing_demo.gif
  │
  └── README.md
-
+```
 ---
 ## Photos
 ### Brightness Vs. Potentiometer reading
